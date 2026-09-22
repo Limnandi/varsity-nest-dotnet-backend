@@ -1,0 +1,6 @@
+@varsity_nest_dotnet_backend_HostAddress = http://localhost:5043
+
+GET {{varsity_nest_dotnet_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
